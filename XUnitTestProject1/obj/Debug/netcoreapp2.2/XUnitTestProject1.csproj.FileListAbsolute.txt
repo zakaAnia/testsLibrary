@@ -1,0 +1,37 @@
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.deps.json
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.runtimeconfig.json
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.runtimeconfig.dev.json
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.dll
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.pdb
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\Library.dll
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\Library.pdb
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.csproj.CopyComplete
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.dll
+C:\Users\Anna\Desktop\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.pdb
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.deps.json
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.runtimeconfig.json
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.runtimeconfig.dev.json
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.dll
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.pdb
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\Library.dll
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\bin\Debug\netcoreapp2.2\Library.pdb
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.csproj.CopyComplete
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.dll
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.pdb
+C:\Users\Anna\Desktop\Inf rok3\PRO2\Library-master\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.genruntimeconfig.cache
